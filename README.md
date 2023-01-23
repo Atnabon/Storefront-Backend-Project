@@ -1,9 +1,5 @@
 # Storefront Backend Project
 
-## Project Overview
-
-https://user-images.githubusercontent.com/53804570/183279249-b74d7a41-36e1-4f5d-9bfe-7eb64b9db3d1.mp4
-
 ### Project Summary
 
 The company stakeholders have decided they want to set up an online store to make their great product ideas available
